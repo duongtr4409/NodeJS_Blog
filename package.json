@@ -1,0 +1,38 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "F8 NodeJS & Express JS: Blog",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --inspect index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/duongtr4409/NodeJS_Blog.git"
+  },
+  "keywords": [
+    "NodeJS",
+    "Blog",
+    "NodeJS",
+    "Express",
+    "JS",
+    "NodeJS",
+    "&",
+    "Express",
+    "JS",
+    "F8"
+  ],
+  "author": "duongtr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/duongtr4409/NodeJS_Blog/issues"
+  },
+  "homepage": "https://github.com/duongtr4409/NodeJS_Blog#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
